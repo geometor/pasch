@@ -1,0 +1,1 @@
+The mission of this project is to capture a semantic digital library of the works of **Moritz Pasch** — the German geometer whose 1882 Vorlesungen established the axioms of linear order, planar separation, and modern hypothetico-deductive rigor.

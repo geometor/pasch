@@ -1,0 +1,27 @@
+{
+  "edition": "vorlesungen_1882",
+  "title": "Vorlesungen über neuere Geometrie",
+  "author": "Moritz Pasch",
+  "tracks": [
+    "en",
+    "de",
+    "summary",
+    "notes"
+  ],
+  "sections": [
+    {
+      "slug": "sec_01_betweenness",
+      "title": "§ 1: Grounding Geometry & Linear Betweenness",
+      "order": 1,
+      "locus": "Vorwort, Einleitung & § 1",
+      "pages": "1–19"
+    },
+    {
+      "slug": "sec_02_planar_separation",
+      "title": "§ 2 & §§ 8–12: Planar Separation Axiom & Ideal Sheaves",
+      "order": 2,
+      "locus": "§ 2, §§ 8–11 & § 12",
+      "pages": "20–100"
+    }
+  ]
+}

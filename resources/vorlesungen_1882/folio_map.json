@@ -1,0 +1,34 @@
+{
+  "_meta": {
+    "repository": "pasch",
+    "edition": "vorlesungen_1882",
+    "description": "Primary-source text locus anchors for Moritz Pasch (1882)"
+  },
+  "folios": {
+    "Vorwort & Einleitung": {
+      "default": "resources/vorlesungen_1882/sources/pasch_1882_vorlesungen_de.txt#L8",
+      "de": "resources/vorlesungen_1882/sources/pasch_1882_vorlesungen_de.txt#L8",
+      "en": "resources/vorlesungen_1882/sources/pasch_1882_vorlesungen_de.txt#L8"
+    },
+    "§ 1": {
+      "default": "resources/vorlesungen_1882/sources/pasch_1882_vorlesungen_de.txt#L56",
+      "de": "resources/vorlesungen_1882/sources/pasch_1882_vorlesungen_de.txt#L56",
+      "en": "resources/vorlesungen_1882/sources/pasch_1882_vorlesungen_de.txt#L56"
+    },
+    "§ 2": {
+      "default": "resources/vorlesungen_1882/sources/pasch_1882_vorlesungen_de.txt#L129",
+      "de": "resources/vorlesungen_1882/sources/pasch_1882_vorlesungen_de.txt#L129",
+      "en": "resources/vorlesungen_1882/sources/pasch_1882_vorlesungen_de.txt#L129"
+    },
+    "§§ 8–11": {
+      "default": "resources/vorlesungen_1882/sources/pasch_1882_vorlesungen_de.txt#L163",
+      "de": "resources/vorlesungen_1882/sources/pasch_1882_vorlesungen_de.txt#L163",
+      "en": "resources/vorlesungen_1882/sources/pasch_1882_vorlesungen_de.txt#L163"
+    },
+    "§ 12": {
+      "default": "resources/vorlesungen_1882/sources/pasch_1882_vorlesungen_de.txt#L163",
+      "de": "resources/vorlesungen_1882/sources/pasch_1882_vorlesungen_de.txt#L163",
+      "en": "resources/vorlesungen_1882/sources/pasch_1882_vorlesungen_de.txt#L163"
+    }
+  }
+}

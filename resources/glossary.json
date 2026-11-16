@@ -1,0 +1,62 @@
+{
+  "zwischen": {
+    "headword": "Zwischenbeziehung (Zwischen)",
+    "language": "de",
+    "translation": "Linear Betweenness",
+    "definition": "Pasch's primitive ternary order relation 'C lies between A and B on the straight segment AB' (1882 § 1, Grundsätze I–VIII), axiomatizing open segments prior to any metric distance."
+  },
+  "pasch-grundsatz": {
+    "headword": "IV. Grundsatz der Ebene (Axiom von Pasch)",
+    "language": "de",
+    "translation": "Pasch's Planar Separation Axiom",
+    "definition": "Pasch's 1882 planar order postulate (§ 2, p. 21): if a coplanar straight line meets one side AB of a triangle ABC internally and passes through no vertex, it must meet internally one (and by Lehrsatz 10, p. 25, only one) of the other two sides AC or BC."
+  },
+  "stammbegriffe": {
+    "headword": "Stammbegriffe (Kernbegriffe)",
+    "language": "de",
+    "translation": "Primitive / Nuclear Concepts",
+    "definition": "In Pasch's axiomatic methodology (1882 § 12), the irreducible primitive concepts (point, straight segment, planar surface, congruence) from which all derived geometric concepts must be explicitly defined."
+  },
+  "stammsaetze": {
+    "headword": "Stammsätze (Grundsätze / Kernsätze)",
+    "language": "de",
+    "translation": "Nuclear Propositions (Axioms)",
+    "definition": "In Pasch's 1882 § 12 manifesto (p. 98), the complete foundational set of axioms gathered initially from empirical observation of physical bodies, after which every subsequent deduction must proceed purely formally, independent of geometric intuition or diagrams."
+  },
+  "getrennte-paare": {
+    "headword": "Getrennte Punktepaare",
+    "language": "de",
+    "translation": "Mutually Separating Point Pairs",
+    "definition": "Two pairs of points (A, B) and (C, D) on a closed projective line such that every passage from A to B along the line meets either C or D; satisfied invariably by every harmonic tetrad (A, B; C, D) = -1."
+  },
+  "unendlich-fernes-element": {
+    "headword": "Unendlich fernes Element (Scheinpunkt / Scheingerade)",
+    "language": "de",
+    "translation": "Infinitely Distant / Ideal Element (Sheaf-Point / Ideal Line)",
+    "definition": "A direction or parallel sheaf adjoined to ordinary space so that every two coplanar lines meet in a unique point and every two planes meet in a unique line; reconstructed intrinsically without infinity via proper sheaves (Bündel) in Pasch 1882 §§ 8–9."
+  },
+  "reciprocitaet": {
+    "headword": "Gesetz der Reciprocität",
+    "language": "de",
+    "translation": "Law of Reciprocity (Projective Duality)",
+    "definition": "The structural symmetry of three-dimensional projective space whereby points and planes are dual primitive elements while straight lines are self-dual, and in a single plane points and lines exchange roles."
+  },
+  "vollstaendiges-viereck": {
+    "headword": "Vollständiges ebenes Viereck",
+    "language": "de",
+    "translation": "Complete Plane Quadrangle",
+    "definition": "A configuration of four coplanar points (no three collinear) joined pairwise by six sides (three pairs of opposite sides) meeting in three diagonal points; dual to the complete quadrilateral (vollständiges Vierseit)."
+  },
+  "harmonisches-gebilde": {
+    "headword": "Harmonisches Gebilde (Harmonische Punkte)",
+    "language": "de",
+    "translation": "Harmonic Form (Harmonic Tetrad)",
+    "definition": "Four collinear points A, C, B, D such that A and B pass through two diagonal points of a complete quadrangle while C and D lie on the two remaining sides meeting at the third diagonal point; uniqueness proved via three dimensions."
+  },
+  "geometrie-der-lage": {
+    "headword": "Geometrie der Lage",
+    "language": "de",
+    "translation": "Geometry of Position (Pure Projective Geometry)",
+    "definition": "Pure synthetic science of spatial incidence, order, harmonic separation, and polarity, developed strictly without reference to metrical magnitude."
+  }
+}

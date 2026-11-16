@@ -1,0 +1,16 @@
+{
+  "witnesses": [
+    {
+      "id": "pasch_1882_vorlesungen",
+      "author": "Moritz Pasch",
+      "work": "Vorlesungen über neuere Geometrie",
+      "edition": "Verlag von B. G. Teubner, Leipzig",
+      "year": 1882,
+      "language": "de",
+      "license": "Public Domain",
+      "relative_path": "resources/vorlesungen_1882/sources/pasch_1882_vorlesungen_de.txt",
+      "sha256": "02f734bf32ea772d77fcd7bafc64e738116e51e759a639c09116c6087b094b56",
+      "bytes": 10306
+    }
+  ]
+}
