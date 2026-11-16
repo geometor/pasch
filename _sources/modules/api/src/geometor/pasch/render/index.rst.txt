@@ -1,0 +1,28 @@
+src.geometor.pasch.render
+=========================
+
+.. py:module:: src.geometor.pasch.render
+
+.. autoapi-nested-parse::
+
+   Exact SymPy-driven SVG figure builder generating the standalone ``.euclid-graphic``
+   diagrams for ``geometor/pasch``.
+
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   src.geometor.pasch.render.build_all_figures
+
+
+Module Contents
+---------------
+
+.. py:function:: build_all_figures(output_dir: pathlib.Path | None = None) -> list[pathlib.Path]
+
+   Generate the standalone ``.euclid-graphic`` SVG figures in ``docsrc/_static/figures/``.
+
+
