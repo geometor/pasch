@@ -20,16 +20,6 @@ Books in This Archive
 
 - `Lectures on Modern Geometry <https://geometor.github.io/pasch/vorlesungen_1882/>`_ — *Vorlesungen über neuere Geometrie* (Moritz Pasch, 1882) introducing the axiomatic foundation of order, planar separation, and projective coordinates.
 
-Python Package & Modules
-------------------------
-
-The ``geometor-pasch`` Python package (``import geometor.pasch``) provides the executable symbolic geometry, construction, and compilation modules powering this archive:
-
-- ``order.py`` — Moritz Pasch's linear betweenness, planar separation axiom (*Vorlesungen*, 1882),
-- ``render.py`` — Exact SymPy-driven SVG figure builder generating the standalone ``.euclid-graphic``
-- ``app.py`` — Command-line interface for ``geometor.pasch``.
-
-See the `API Reference <https://geometor.github.io/pasch/modules/>`_ for full module documentation.
 
 Repository Contents
 -------------------
