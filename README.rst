@@ -3,6 +3,11 @@ GEOMETOR • pasch
 
 **Visit the Online Archive:** https://geometor.github.io/pasch/
 
+.. image:: docsrc/_static/figures/pasch_sec01_linear_betweenness_separation.svg
+   :alt: GEOMETOR • pasch featured geometric construction
+   :target: https://geometor.github.io/pasch/
+   :align: center
+
 **Moritz Pasch • Vorlesungen über neuere Geometrie • semantic digital archive**
 
 Mission
@@ -13,7 +18,7 @@ Mission
 Books in This Archive
 ---------------------
 
-- **`Vorlesungen über neuere Geometrie <https://geometor.github.io/pasch/vorlesungen_1882/>`_** — Lectures on Modern Geometry introducing the axiomatic foundation of order, planar separation, and projective coordinates (1882).
+- **`Lectures on Modern Geometry <https://geometor.github.io/pasch/vorlesungen_1882/>`_** — *Vorlesungen über neuere Geometrie* (Moritz Pasch, 1882) introducing the axiomatic foundation of order, planar separation, and projective coordinates.
 
 Repository Contents
 -------------------
