@@ -18,7 +18,7 @@ Mission
 Books in This Archive
 ---------------------
 
-- **`Lectures on Modern Geometry <https://geometor.github.io/pasch/vorlesungen_1882/>`_** — *Vorlesungen über neuere Geometrie* (Moritz Pasch, 1882) introducing the axiomatic foundation of order, planar separation, and projective coordinates.
+- `Lectures on Modern Geometry <https://geometor.github.io/pasch/vorlesungen_1882/>`_ — *Vorlesungen über neuere Geometrie* (Moritz Pasch, 1882) introducing the axiomatic foundation of order, planar separation, and projective coordinates.
 
 Repository Contents
 -------------------
