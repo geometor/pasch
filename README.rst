@@ -1,13 +1,13 @@
+.. image:: docsrc/_static/logo.png
+   :alt: GEOMETOR • pasch Medallion
+   :target: https://geometor.github.io/pasch/
+   :width: 150px
+   :align: right
+
 GEOMETOR • pasch
 ================
 
 **Visit the Online Archive:** https://geometor.github.io/pasch/
-
-.. image:: docsrc/_static/logo.png
-   :alt: GEOMETOR • pasch Medallion
-   :target: https://geometor.github.io/pasch/
-   :width: 180px
-   :align: center
 
 .. image:: docsrc/_static/figures/pasch_sec01_linear_betweenness_separation.svg
    :alt: GEOMETOR • pasch featured geometric construction
