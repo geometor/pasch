@@ -5,7 +5,7 @@ authors = [
   { name = "phiarchitect", email = "github@geometor.com" },
 ]
 description = "the German geometer whose 1882 Vorlesungen established the axioms of linear order, planar separation, and modern hypothetico-deductive rigor"
-readme = "README.rst"
+readme = "README.md"
 requires-python = ">=3.13"
 license = { file = "LICENSE" }
 classifiers = [
