@@ -59,32 +59,6 @@ Scholarly Apparatus
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: English Translation
-
-   sec_01_betweenness/sec_01-en
-   sec_02_planar_separation/sec_02-en
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: German Edition
-
-   sec_01_betweenness/sec_01-de
-   sec_02_planar_separation/sec_02-de
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Summaries & Critical Notes
-
-   sec_01_betweenness/sec_01-summary
-   sec_01_betweenness/sec_01-notes
-   sec_02_planar_separation/sec_02-summary
-   sec_02_planar_separation/sec_02-notes
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
    :caption: Title Pages
 
    title-de

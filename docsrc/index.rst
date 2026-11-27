@@ -32,8 +32,8 @@ Books in This Collection
       .. container:: home-actions
 
          * :doc:`Open Lectures on Modern Geometry → <vorlesungen_1882/index>`
-         * :doc:`§ 1: Linear Betweenness → <vorlesungen_1882/sec_01_betweenness/sec_01-en>`
-         * :doc:`§ 2 & §§ 8–12: Planar Separation → <vorlesungen_1882/sec_02_planar_separation/sec_02-en>`
+         * :doc:`§ 1: Linear Betweenness → <vorlesungen_1882/sec_01_betweenness/index>`
+         * :doc:`§ 2 & §§ 8–12: Planar Separation → <vorlesungen_1882/sec_02_planar_separation/index>`
 
 Key Features
 ------------

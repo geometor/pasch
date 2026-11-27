@@ -1,3 +1,4 @@
+:type: notes
 :layout: book
 
 .. _pasch-sec-2-notes:
