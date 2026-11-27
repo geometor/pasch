@@ -1,3 +1,4 @@
+:type: summary
 :layout: book
 
 .. _pasch-sec-1-summary:

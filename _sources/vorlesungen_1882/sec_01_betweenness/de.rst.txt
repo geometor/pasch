@@ -1,3 +1,4 @@
+:type: de
 :layout: book
 
 .. _pasch-sec-1-de:
