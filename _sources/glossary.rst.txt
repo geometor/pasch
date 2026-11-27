@@ -13,12 +13,12 @@ Bilingual Mathematical & Axiomatic Glossary
 .. _term-zwischen:
 
 **Zwischenbeziehung (Zwischen)** — *Linear Betweenness*
-   :person:`Pasch <pasch>`'s primitive ternary order relation "$C$ lies between $A$ and $B$ on the straight segment $AB$" (:cite:`1882 § 1, Grundsätze I–VIII <pasch:1882>`), axiomatizing open segments prior to congruence or measure.
+   :person:`Pasch <pasch>`'s primitive ternary order relation ":math:`C` lies between :math:`A` and :math:`B` on the straight segment :math:`AB`" (:cite:`1882 § 1, Grundsätze I–VIII <pasch:1882>`), axiomatizing open segments prior to congruence or measure.
 
 .. _term-pasch-grundsatz:
 
 **IV. Grundsatz der Ebene (Axiom von Pasch)** — *Pasch's Planar Separation Axiom*
-   :person:`Pasch <pasch>`'s planar order axiom (:cite:`1882 § 2, p. 21 <pasch:1882>`): if a coplanar straight line meets one side $AB$ of a triangle $\triangle ABC$ internally and passes through no vertex, it must also meet internally one (and by *10. Lehrsatz*, p. 25, **only one**) of the other two sides $AC$ or $BC$.
+   :person:`Pasch <pasch>`'s planar order axiom (:cite:`1882 § 2, p. 21 <pasch:1882>`): if a coplanar straight line meets one side :math:`AB` of a triangle :math:`\triangle ABC` internally and passes through no vertex, it must also meet internally one (and by *10. Lehrsatz*, p. 25, **only one**) of the other two sides :math:`AC` or :math:`BC`.
 
 .. _term-stammbegriffe:
 
@@ -33,7 +33,7 @@ Bilingual Mathematical & Axiomatic Glossary
 .. _term-getrennte-paare:
 
 **Getrennte Punktepaare** — *Mutually Separating Point Pairs*
-   Two pairs $(A, B)$ and $(C, D)$ on a closed projective line such that each pair divides the carrier into two segments containing one point of the other pair; satisfied by every :term:`harmonic tetrad <harmonisches-gebilde>`.
+   Two pairs :math:`(A, B)` and :math:`(C, D)` on a closed projective line such that each pair divides the carrier into two segments containing one point of the other pair; satisfied by every :term:`harmonic tetrad <harmonisches-gebilde>`.
 
 .. _term-unendlich-fernes-element:
 
@@ -53,7 +53,7 @@ Bilingual Mathematical & Axiomatic Glossary
 .. _term-harmonisches-gebilde:
 
 **Harmonisches Gebilde (Harmonische Punkte)** — *Harmonic Form (Harmonic Tetrad)*
-   Four collinear points $A, C, B, D$ such that two opposite sides of a :term:`complete quadrangle <vollstaendiges-viereck>` pass through $A$, two opposite sides pass through $B$, and the two remaining diagonals pass respectively through $C$ and $D$. Satisfies $(A, B; C, D) = -1$ without any appeal to distance.
+   Four collinear points :math:`A, C, B, D` such that two opposite sides of a :term:`complete quadrangle <vollstaendiges-viereck>` pass through :math:`A`, two opposite sides pass through :math:`B`, and the two remaining diagonals pass respectively through :math:`C` and :math:`D`. Satisfies :math:`(A, B; C, D) = -1` without any appeal to distance.
 
 .. _term-geometrie-der-lage:
 

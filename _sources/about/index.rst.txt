@@ -31,7 +31,7 @@ GEOMETOR is an ongoing research initiative founded by **phi ARCHITECT** dedicate
    Moving beyond passive scans to recover the living deductive structure of geometric treatises—elevating verbatim prose, primary-source folios (via ``publish folio``), and calibrated Ink-to-Vector ``.euclid-graphic`` diagrams into structured semantic graphs.
 
 2. **Exact Symbolic Grounding (``geometor.model``)**:
-   Anchoring geometric constructions in 100% exact symbolic algebra (`SymPy <https://www.sympy.org/>`_) and Rational Trigonometry invariants over exact algebraic fields ($\mathbb{Q}$, $\mathbb{Q}(\phi)$). In ``geometor.pasch``, linear betweenness and triangle transversals are verified with exact orientation determinants and signed inner products, demonstrating that planar separation holds free from floating-point distortion.
+   Anchoring geometric constructions in 100% exact symbolic algebra (`SymPy <https://www.sympy.org/>`_) and Rational Trigonometry invariants over exact algebraic fields (:math:`\mathbb{Q}`, :math:`\mathbb{Q}(\phi)`). In ``geometor.pasch``, linear betweenness and triangle transversals are verified with exact orientation determinants and signed inner products, demonstrating that planar separation holds free from floating-point distortion.
 
 3. **Repurposing Knowledge Across Mediums**:
    Re-deploying extracted semantic structures across synchronized multi-track **Book Codices** and EPUB 3 editions (`photon-platform/publish <https://github.com/phiarchitect/publish>`_), computable deductive canons (``geometor.elements``, ``geometor.staudt``, ``geometor.hilbert``), interactive SVG laboratories, and visual broadcasts.

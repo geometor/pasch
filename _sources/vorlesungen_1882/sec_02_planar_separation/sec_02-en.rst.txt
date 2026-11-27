@@ -25,21 +25,21 @@
 
 **Grundsatz III.** *If two planar surfaces share a common point, one can always specify at least a second point common to both.*
 
-**Grundsatz IV (Pasch's Planar Separation Axiom, p. 21).** *Let $A, B, C$ be three points not lying in one straight line, and let $a$ be a straight line lying in the plane $ABC$ that passes through none of the points $A, B, C$: if the straight line $a$ passes through a point inside the segment $AB$, then it always passes also either through a point inside the segment $AC$ or through a point inside the segment $BC$.*
+**Grundsatz IV (Pasch's Planar Separation Axiom, p. 21).** *Let* :math:`A, B, C` *be three points not lying in one straight line, and let* :math:`a` *be a straight line lying in the plane* :math:`ABC` *that passes through none of the points* :math:`A, B, C`: *if the straight line* :math:`a` *passes through a point inside the segment* :math:`AB`, *then it always passes also either through a point inside the segment* :math:`AC` *or through a point inside the segment* :math:`BC`.
 
 .. picture:: /_static/figures/pasch_sec02_planar_axiom_euclid_gaps.svg
    :alt: Pasch's IV. Grundsatz (1882 p. 21) on triangle ABC and deductive proof of Euclid I.21 ray exit E on AC.
-   :caption: **Pasch's IV. Grundsatz (1882 § 2, p. 21) & 10. Lehrsatz (p. 25):** Left: Any coplanar line $\ell$ entering $\triangle ABC$ along open segment $AB$ without meeting $A, B, C$ must exit through open segment $AC$ or $BC$ (never both). Right: Applying *Grundsatz IV* to sub-triangle $\triangle AMC$ proves Euclid ``I.21``'s interior ray exit $E \in AC$.
+   :caption: **Pasch's IV. Grundsatz (1882 § 2, p. 21) & 10. Lehrsatz (p. 25):** Left: Any coplanar line :math:`\ell` entering :math:`\triangle ABC` along open segment :math:`AB` without meeting :math:`A, B, C` must exit through open segment :math:`AC` or :math:`BC` (never both). Right: Applying *Grundsatz IV* to sub-triangle :math:`\triangle AMC` proves Euclid ``I.21``'s interior ray exit :math:`E \in AC`.
 
-**10. Lehrsatz (Exclusivity — A Line Cannot Cut All Three Open Sides, p. 25).** *In the configuration of Grundsatz IV, the straight line $a$ cannot pass simultaneously through a point inside $AB$, a point inside $BC$, and a point inside $AC$.*
+**10. Lehrsatz (Exclusivity — A Line Cannot Cut All Three Open Sides, p. 25).** *In the configuration of Grundsatz IV, the straight line* :math:`a` *cannot pass simultaneously through a point inside* :math:`AB`, *a point inside* :math:`BC`, *and a point inside* :math:`AC`.
 
-*Proof.* Suppose for contradiction that $a$ met open segments $AB$, $BC$, and $AC$ in interior points $D, E, F$ respectively. Being three distinct collinear points on $a$, one of them—say $F$—must by § 1 lie inside the segment $DE$ bounded by the other two ($D\text{--}F\text{--}E$). Now consider triangle $\triangle BDE$ and the straight line $g = [AC]$:
+*Proof.* Suppose for contradiction that :math:`a` met open segments :math:`AB`, :math:`BC`, and :math:`AC` in interior points :math:`D, E, F` respectively. Being three distinct collinear points on :math:`a`, one of them—say :math:`F`—must by § 1 lie inside the segment :math:`DE` bounded by the other two (:math:`D\text{--}F\text{--}E`). Now consider triangle :math:`\triangle BDE` and the straight line :math:`g = [AC]`:
 
-* Line $g$ passes through none of the vertices $B, D, E$ (since $D$ is interior to $AB$ and $E$ is interior to $BC$).
-* Line $g$ passes through $F$, which lies **inside** side $DE$ of $\triangle BDE$.
-* Therefore, by **Grundsatz IV** applied to $\triangle BDE$, line $g = [AC]$ would have to meet either segment $BD$ internally (impossible, since $[AC] \cap [AB] = A$ lies *outside* $BD$ by § 1 Grundsatz III) or segment $BE$ internally (equally impossible, since $[AC] \cap [BC] = C$ lies *outside* $BE$)!
+* Line :math:`g` passes through none of the vertices :math:`B, D, E` (since :math:`D` is interior to :math:`AB` and :math:`E` is interior to :math:`BC`).
+* Line :math:`g` passes through :math:`F`, which lies **inside** side :math:`DE` of :math:`\triangle BDE`.
+* Therefore, by **Grundsatz IV** applied to :math:`\triangle BDE`, line :math:`g = [AC]` would have to meet either segment :math:`BD` internally (impossible, since :math:`[AC] \cap [AB] = A` lies *outside* :math:`BD` by § 1 Grundsatz III) or segment :math:`BE` internally (equally impossible, since :math:`[AC] \cap [BC] = C` lies *outside* :math:`BE`)!
 
-Hence a line avoiding $A, B, C$ that enters one open side of $\triangle ABC$ exits through **one and only one** of the other two open sides, and every straight line $a$ in a plane $\alpha$ partitions $\alpha \setminus a$ into **two** disjoint convex half-planes (*Halbebenen*): $P, Q \notin a$ lie on the *same side* of $a$ iff segment $PQ$ misses $a$, and on *opposite sides* iff $a$ meets segment $PQ$ internally. $\blacksquare$
+Hence a line avoiding :math:`A, B, C` that enters one open side of :math:`\triangle ABC` exits through **one and only one** of the other two open sides, and every straight line :math:`a` in a plane :math:`\alpha` partitions :math:`\alpha \setminus a` into **two** disjoint convex half-planes (*Halbebenen*): :math:`P, Q \notin a` lie on the *same side* of :math:`a` iff segment :math:`PQ` misses :math:`a`, and on *opposite sides* iff :math:`a` meets segment :math:`PQ` internally. :math:`\blacksquare`
 
 .. folio:: §§ 8–11
    :page: 58
@@ -47,15 +47,15 @@ Hence a line avoiding $A, B, C$ that enters one open side of $\triangle ABC$ exi
 §§ 8–11. Ideal Sheaves Without Infinity & Harmonic Figures (pp. 58–93)
 ----------------------------------------------------------------------
 
-**§ 8. Sheaves of Lines and Ideal Points (*Strahlenbündel und uneigentliche Punkte*).** In :person:`von Staudt <staudt>`'s *Geometrie der Lage* (§ 2), infinitely distant points were introduced by invoking Euclidean parallel directions—thereby relying on Euclid's Parallel Postulate and speaking figuratively of points "at infinity." Yet in actual observation we operate only within a **bounded spatial region**, where two coplanar lines $g, h$ may fail to intersect inside our region whether they are Euclidean parallels or merely converge far outside our region!
+**§ 8. Sheaves of Lines and Ideal Points (*Strahlenbündel und uneigentliche Punkte*).** In :person:`von Staudt <staudt>`'s *Geometrie der Lage* (§ 2), infinitely distant points were introduced by invoking Euclidean parallel directions—thereby relying on Euclid's Parallel Postulate and speaking figuratively of points "at infinity." Yet in actual observation we operate only within a **bounded spatial region**, where two coplanar lines :math:`g, h` may fail to intersect inside our region whether they are Euclidean parallels or merely converge far outside our region!
 
 We therefore replace "points at infinity" by a rigorous finite construction:
 
-1. Two coplanar lines $g, h$ together with any external point $S$ outside their plane determine two planes $(S, g)$ and $(S, h)$ intersecting along a unique ray $k$ through $S$. The totality of all such lines $k$ determined across space forms a **sheaf of rays** (*Strahlenbündel*).
-2. If $g$ and $h$ meet in an ordinary point $P$, the sheaf consists simply of all lines through $P$ (*eigentliches Bündel*). If $g$ and $h$ do not meet, the sheaf is still completely determined by finite plane intersections (*uneigentliches Bündel*)—without ever assuming whether parallels are unique!
+1. Two coplanar lines :math:`g, h` together with any external point :math:`S` outside their plane determine two planes :math:`(S, g)` and :math:`(S, h)` intersecting along a unique ray :math:`k` through :math:`S`. The totality of all such lines :math:`k` determined across space forms a **sheaf of rays** (*Strahlenbündel*).
+2. If :math:`g` and :math:`h` meet in an ordinary point :math:`P`, the sheaf consists simply of all lines through :math:`P` (*eigentliches Bündel*). If :math:`g` and :math:`h` do not meet, the sheaf is still completely determined by finite plane intersections (*uneigentliches Bündel*)—without ever assuming whether parallels are unique!
 3. Calling **every** sheaf of rays a *projective point* (*Punkt im weiteren Sinne*), every planar flat pencil a *projective line*, and every planar sheaf a *projective plane*, all incidence axioms of three-dimensional projective geometry hold **unconditionally and without appeal to infinity**.
 
-**§§ 10–11. Complete Quadrangle & Harmonic Separation Grounded on Order.** Armed with ideal sheaves (§§ 8–9) and planar separation (§ 2), :person:`von Staudt <staudt>`'s :term:`complete quadrangle <vollstaendiges-viereck>` construction (§ 6) now rests on complete logical foundations: using *Grundsatz IV* repeatedly across the four sub-triangles of quadrangle $EFGH$, one proves **purely deductively** (without glancing at a figure!) that the harmonic conjugates $(A, B)$ and $(C, D)$ invariably :term:`separate one another <getrennte-paare>` on the projective line.
+**§§ 10–11. Complete Quadrangle & Harmonic Separation Grounded on Order.** Armed with ideal sheaves (§§ 8–9) and planar separation (§ 2), :person:`von Staudt <staudt>`'s :term:`complete quadrangle <vollstaendiges-viereck>` construction (§ 6) now rests on complete logical foundations: using *Grundsatz IV* repeatedly across the four sub-triangles of quadrangle :math:`EFGH`, one proves **purely deductively** (without glancing at a figure!) that the harmonic conjugates :math:`(A, B)` and :math:`(C, D)` invariably :term:`separate one another <getrennte-paare>` on the projective line.
 
 .. folio:: § 12
    :page: 93
