@@ -1,0 +1,930 @@
+{
+  "schema": "photon.card.v1",
+  "site": {
+    "org": "geometor",
+    "org_name": "GEOMETOR",
+    "repo": "pasch",
+    "repo_name": "pasch",
+    "title": "Moritz Pasch",
+    "base_url": "https://geometor.github.io/pasch",
+    "github_url": "https://github.com/geometor/pasch",
+    "emblem": "https://geometor.github.io/pasch/_static/medallion.svg"
+  },
+  "cards": {
+    "about/index": {
+      "id": "about/index",
+      "docname": "about/index",
+      "type": "article",
+      "title": "About",
+      "url": "https://geometor.github.io/pasch/about/",
+      "description": "The GEOMETOR edition of Moritz Pasch presents the foundational treatise that established modern mathematical axiomatics and resolved the hidden diagrammatic assumptions of Greek and projective geometry:",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "About",
+      "labels": [
+        "about",
+        "about-index",
+        "about-pasch"
+      ]
+    },
+    "bibliography": {
+      "id": "bibliography",
+      "docname": "bibliography",
+      "type": "article",
+      "title": "Bibliography",
+      "url": "https://geometor.github.io/pasch/bibliography.html",
+      "description": "Pasch, Moritz (1882). Vorlesungen über neuere Geometrie. Leipzig: Verlag von B. G. Teubner, 1882 (iv + 202 pp.). First axiomatization of linear betweenness (§ 1), planar triangle separation (IV. Grundsatz, § 2, p. 21; 10. Lehrsatz, p.…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Bibliography",
+      "labels": [
+        "bibliography",
+        "cite-pasch-1882",
+        "cite-euclid-elements",
+        "cite-staudt-1847",
+        "cite-staudt-1857",
+        "cite-pappus-synagoge",
+        "cite-mobius-1827",
+        "cite-steiner-1832",
+        "cite-steiner-1833",
+        "cite-klein-1871",
+        "cite-klein-1873",
+        "cite-darboux-1880",
+        "cite-vailati-1895",
+        "cite-russell-1897",
+        "cite-hilbert-1899",
+        "cite-russell-1903",
+        "cite-hessenberg-1905",
+        "cite-veblen-1910",
+        "cite-hoenen-1954",
+        "cite-tarski-1959"
+      ]
+    },
+    "changelog": {
+      "id": "changelog",
+      "docname": "changelog",
+      "type": "article",
+      "title": "changelog",
+      "url": "https://geometor.github.io/pasch/changelog.html",
+      "description": "Initialize geometor.pasch (codex archetype): the German geometer whose 1882 Vorlesungen established the axioms of linear order, planar separation, and modern hypothetico-deductive rigor.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "changelog"
+    },
+    "connect": {
+      "id": "connect",
+      "docname": "connect",
+      "type": "section",
+      "title": "Connect",
+      "url": "https://geometor.github.io/pasch/connect.html",
+      "description": "GEOMETOR is an open-source research and publishing initiative by phi ARCHITECT exploring constructive geometry, the divine proportion, and historical mathematical treatises.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Connect",
+      "labels": [
+        "connect"
+      ]
+    },
+    "demos/demo": {
+      "id": "demos/demo",
+      "docname": "demos/demo",
+      "type": "article",
+      "title": "Demo",
+      "url": "https://geometor.github.io/pasch/demos/demo.html",
+      "description_source": "empty",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Demo"
+    },
+    "demos/index": {
+      "id": "demos/index",
+      "docname": "demos/index",
+      "type": "article",
+      "title": "Demos",
+      "url": "https://geometor.github.io/pasch/demos/",
+      "description": "Executable demonstration scripts in demos/:",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Demos"
+    },
+    "glossary": {
+      "id": "glossary",
+      "docname": "glossary",
+      "type": "article",
+      "title": "Bilingual Mathematical & Axiomatic Glossary",
+      "url": "https://geometor.github.io/pasch/glossary.html",
+      "description": "Pasch’s primitive ternary order relation “C lies between A and B on the straight segment AB” (1882 § 1, Grundsätze I–VIII), axiomatizing open segments prior to congruence or measure.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Bilingual Mathematical & Axiomatic Glossary",
+      "labels": [
+        "glossary",
+        "term-zwischen",
+        "term-pasch-grundsatz",
+        "term-stammbegriffe",
+        "term-stammsaetze",
+        "term-getrennte-paare",
+        "term-unendlich-fernes-element",
+        "term-reciprocitaet",
+        "term-vollstaendiges-viereck",
+        "term-harmonisches-gebilde",
+        "term-geometrie-der-lage"
+      ]
+    },
+    "index": {
+      "id": "index",
+      "docname": "index",
+      "type": "project",
+      "title": "Moritz Pasch",
+      "url": "https://geometor.github.io/pasch/",
+      "description": "Moritz Pasch (1843–1930) laid the cornerstone of modern mathematical axiomatics in 1882—exposing the implicit topological assumptions hidden in Euclid and rebuilding linear order, planar triangle separation (Pasch’s Axiom), and projective…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Moritz Pasch Medallion"
+    },
+    "log/26.319-000000/index": {
+      "id": "log/26.319-000000/index",
+      "docname": "log/26.319-000000/index",
+      "type": "log",
+      "title": "Initialize pasch (codex)",
+      "url": "https://geometor.github.io/pasch/log/26.319-000000/",
+      "description": "Initialized geometor.pasch (codex archetype) via clerk init: the German geometer whose 1882 Vorlesungen established the axioms of linear order, planar separation, and modern hypothetico-deductive rigor.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Initialize pasch (codex)",
+      "facets": {
+        "author": "phiarchitect",
+        "date": "26.319-000000",
+        "tags": [
+          "init",
+          "codex"
+        ],
+        "categories": [
+          "initialization"
+        ]
+      }
+    },
+    "log/index": {
+      "id": "log/index",
+      "docname": "log/index",
+      "type": "article",
+      "title": "Log",
+      "url": "https://geometor.github.io/pasch/log/",
+      "description": "Chronological development and research log for geometor.pasch.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Log"
+    },
+    "modules/api/src/geometor/pasch/__main__/index": {
+      "id": "modules/api/src/geometor/pasch/__main__/index",
+      "docname": "modules/api/src/geometor/pasch/__main__/index",
+      "type": "article",
+      "title": "src.geometor.pasch.__main__",
+      "url": "https://geometor.github.io/pasch/modules/api/src/geometor/pasch/__main__/",
+      "description": "Package entry point for python -m geometor.pasch.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "src.geometor.pasch.__main__"
+    },
+    "modules/api/src/geometor/pasch/app/index": {
+      "id": "modules/api/src/geometor/pasch/app/index",
+      "docname": "modules/api/src/geometor/pasch/app/index",
+      "type": "article",
+      "title": "src.geometor.pasch.app",
+      "url": "https://geometor.github.io/pasch/modules/api/src/geometor/pasch/app/",
+      "description": "Command-line interface for geometor.pasch.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "src.geometor.pasch.app"
+    },
+    "modules/api/src/geometor/pasch/index": {
+      "id": "modules/api/src/geometor/pasch/index",
+      "docname": "modules/api/src/geometor/pasch/index",
+      "type": "article",
+      "title": "src.geometor.pasch",
+      "url": "https://geometor.github.io/pasch/modules/api/src/geometor/pasch/",
+      "description": "Public package interface for geometor.pasch.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "src.geometor.pasch"
+    },
+    "modules/api/src/geometor/pasch/order/index": {
+      "id": "modules/api/src/geometor/pasch/order/index",
+      "docname": "modules/api/src/geometor/pasch/order/index",
+      "type": "article",
+      "title": "src.geometor.pasch.order",
+      "url": "https://geometor.github.io/pasch/modules/api/src/geometor/pasch/order/",
+      "description": "Moritz Pasch’s linear betweenness, planar separation axiom (Vorlesungen, 1882), and symbolic order audits of Euclid’s Elements I.16 and I.21.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "src.geometor.pasch.order"
+    },
+    "modules/api/src/geometor/pasch/render/index": {
+      "id": "modules/api/src/geometor/pasch/render/index",
+      "docname": "modules/api/src/geometor/pasch/render/index",
+      "type": "article",
+      "title": "src.geometor.pasch.render",
+      "url": "https://geometor.github.io/pasch/modules/api/src/geometor/pasch/render/",
+      "description": "Exact SymPy-driven SVG figure builder generating the standalone .euclid-graphic diagrams for geometor/pasch.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "src.geometor.pasch.render"
+    },
+    "modules/index": {
+      "id": "modules/index",
+      "docname": "modules/index",
+      "type": "article",
+      "title": "Modules",
+      "url": "https://geometor.github.io/pasch/modules/",
+      "description": "API summary for geometor.pasch:",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Modules"
+    },
+    "people/brianchon": {
+      "id": "people/brianchon",
+      "docname": "people/brianchon",
+      "type": "person",
+      "title": "Brianchon",
+      "url": "https://geometor.github.io/pasch/people/brianchon.html",
+      "description": "Charles Julien Brianchon (1783–1864)",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Brianchon",
+      "facets": {
+        "death_year": "1864",
+        "death_year_sort": 1864,
+        "death_label": "1864",
+        "lifespan": "1783–1864"
+      },
+      "labels": [
+        "person-brianchon"
+      ]
+    },
+    "people/chasles": {
+      "id": "people/chasles",
+      "docname": "people/chasles",
+      "type": "person",
+      "title": "Chasles",
+      "url": "https://geometor.github.io/pasch/people/chasles.html",
+      "description": "Michel Chasles (1793–1880)",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Chasles",
+      "facets": {
+        "death_year": "1880",
+        "death_year_sort": 1880,
+        "death_label": "1880",
+        "lifespan": "1793–1880"
+      },
+      "labels": [
+        "person-chasles"
+      ]
+    },
+    "people/darboux": {
+      "id": "people/darboux",
+      "docname": "people/darboux",
+      "type": "person",
+      "title": "Darboux",
+      "url": "https://geometor.github.io/pasch/people/darboux.html",
+      "description": "Jean-Gaston Darboux (1842–1917)",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Darboux",
+      "facets": {
+        "death_year": "1917",
+        "death_year_sort": 1917,
+        "death_label": "1917",
+        "lifespan": "1842–1917"
+      },
+      "labels": [
+        "person-darboux"
+      ]
+    },
+    "people/desargues": {
+      "id": "people/desargues",
+      "docname": "people/desargues",
+      "type": "person",
+      "title": "Desargues",
+      "url": "https://geometor.github.io/pasch/people/desargues.html",
+      "description": "Girard Desargues (1591–1661)",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Desargues",
+      "facets": {
+        "death_year": "1661",
+        "death_year_sort": 1661,
+        "death_label": "1661",
+        "lifespan": "1591–1661"
+      },
+      "labels": [
+        "person-desargues"
+      ]
+    },
+    "people/euclid": {
+      "id": "people/euclid",
+      "docname": "people/euclid",
+      "type": "person",
+      "title": "Euclid",
+      "url": "https://geometor.github.io/pasch/people/euclid.html",
+      "description": "Euclid of Alexandria (fl. c. 300 BCE)",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Euclid",
+      "facets": {
+        "death_year": "-300",
+        "death_year_sort": -300,
+        "death_label": "300 BC",
+        "lifespan": "fl. c. 300 BCE",
+        "site_url": "https://geometor.github.io/euclid/",
+        "github_url": "https://github.com/geometor/euclid"
+      },
+      "labels": [
+        "person-euclid"
+      ]
+    },
+    "people/hilbert": {
+      "id": "people/hilbert",
+      "docname": "people/hilbert",
+      "type": "person",
+      "title": "Hilbert",
+      "url": "https://geometor.github.io/pasch/people/hilbert.html",
+      "description": "David Hilbert (1862–1943)",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Hilbert",
+      "facets": {
+        "death_year": "1943",
+        "death_year_sort": 1943,
+        "death_label": "1943",
+        "lifespan": "1862–1943",
+        "site_url": "https://geometor.github.io/hilbert/",
+        "github_url": "https://github.com/geometor/hilbert"
+      },
+      "labels": [
+        "person-hilbert"
+      ]
+    },
+    "people/hoenen": {
+      "id": "people/hoenen",
+      "docname": "people/hoenen",
+      "type": "person",
+      "title": "Hoenen",
+      "url": "https://geometor.github.io/pasch/people/hoenen.html",
+      "description": "Peter Hubert Jacob Hoenen, S.J. (1880–1961)",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Hoenen",
+      "facets": {
+        "death_year": "1961",
+        "death_year_sort": 1961,
+        "death_label": "1961",
+        "lifespan": "1880–1961",
+        "site_url": "https://geometor.github.io/hoenen/",
+        "github_url": "https://github.com/geometor/hoenen"
+      },
+      "labels": [
+        "person-hoenen"
+      ]
+    },
+    "people/index": {
+      "id": "people/index",
+      "docname": "people/index",
+      "type": "article",
+      "title": "People",
+      "url": "https://geometor.github.io/pasch/people/",
+      "description_source": "empty",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "People",
+      "labels": [
+        "persons"
+      ]
+    },
+    "people/klein": {
+      "id": "people/klein",
+      "docname": "people/klein",
+      "type": "person",
+      "title": "Klein",
+      "url": "https://geometor.github.io/pasch/people/klein.html",
+      "description": "Felix Klein (1849–1925)",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Klein",
+      "facets": {
+        "death_year": "1925",
+        "death_year_sort": 1925,
+        "death_label": "1925",
+        "lifespan": "1849–1925",
+        "site_url": "https://geometor.github.io/klein/",
+        "github_url": "https://github.com/geometor/klein"
+      },
+      "labels": [
+        "person-klein"
+      ]
+    },
+    "people/mobius": {
+      "id": "people/mobius",
+      "docname": "people/mobius",
+      "type": "person",
+      "title": "Mobius",
+      "url": "https://geometor.github.io/pasch/people/mobius.html",
+      "description": "August Ferdinand Möbius (1790–1868)",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Mobius",
+      "facets": {
+        "death_year": "1868",
+        "death_year_sort": 1868,
+        "death_label": "1868",
+        "lifespan": "1790–1868"
+      },
+      "labels": [
+        "person-mobius"
+      ]
+    },
+    "people/pappus": {
+      "id": "people/pappus",
+      "docname": "people/pappus",
+      "type": "person",
+      "title": "Pappus",
+      "url": "https://geometor.github.io/pasch/people/pappus.html",
+      "description": "Pappus of Alexandria (c. 290–c. 350 CE)",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Pappus",
+      "facets": {
+        "death_year": "350",
+        "death_year_sort": 350,
+        "death_label": "350",
+        "lifespan": "c. 290–c. 350 CE",
+        "site_url": "https://geometor.github.io/pappus/",
+        "github_url": "https://github.com/geometor/pappus"
+      },
+      "labels": [
+        "person-pappus"
+      ]
+    },
+    "people/pascal": {
+      "id": "people/pascal",
+      "docname": "people/pascal",
+      "type": "person",
+      "title": "Pascal",
+      "url": "https://geometor.github.io/pasch/people/pascal.html",
+      "description": "Blaise Pascal (1623–1662)",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Pascal",
+      "facets": {
+        "death_year": "1662",
+        "death_year_sort": 1662,
+        "death_label": "1662",
+        "lifespan": "1623–1662",
+        "site_url": "https://geometor.github.io/pascal/",
+        "github_url": "https://github.com/geometor/pascal"
+      },
+      "labels": [
+        "person-pascal"
+      ]
+    },
+    "people/pasch": {
+      "id": "people/pasch",
+      "docname": "people/pasch",
+      "type": "person",
+      "title": "Pasch",
+      "url": "https://geometor.github.io/pasch/people/pasch.html",
+      "description": "Moritz Pasch (1843–1930)",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Pasch",
+      "facets": {
+        "death_year": "1930",
+        "death_year_sort": 1930,
+        "death_label": "1930",
+        "lifespan": "1843–1930",
+        "site_url": "https://geometor.github.io/pasch/",
+        "github_url": "https://github.com/geometor/pasch"
+      },
+      "labels": [
+        "person-pasch"
+      ]
+    },
+    "people/poncelet": {
+      "id": "people/poncelet",
+      "docname": "people/poncelet",
+      "type": "person",
+      "title": "Poncelet",
+      "url": "https://geometor.github.io/pasch/people/poncelet.html",
+      "description": "Jean-Victor Poncelet (1788–1867)",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Poncelet",
+      "facets": {
+        "death_year": "1867",
+        "death_year_sort": 1867,
+        "death_label": "1867",
+        "lifespan": "1788–1867"
+      },
+      "labels": [
+        "person-poncelet"
+      ]
+    },
+    "people/russell": {
+      "id": "people/russell",
+      "docname": "people/russell",
+      "type": "person",
+      "title": "Russell",
+      "url": "https://geometor.github.io/pasch/people/russell.html",
+      "description": "Bertrand Russell (1872–1970)",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Russell",
+      "facets": {
+        "death_year": "1970",
+        "death_year_sort": 1970,
+        "death_label": "1970",
+        "lifespan": "1872–1970",
+        "site_url": "https://geometor.github.io/bertrand-russell/",
+        "github_url": "https://github.com/geometor/bertrand-russell"
+      },
+      "labels": [
+        "person-russell"
+      ]
+    },
+    "people/staudt": {
+      "id": "people/staudt",
+      "docname": "people/staudt",
+      "type": "person",
+      "title": "Staudt",
+      "url": "https://geometor.github.io/pasch/people/staudt.html",
+      "description": "Karl Georg Christian von Staudt (1798–1867)",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Staudt",
+      "facets": {
+        "death_year": "1867",
+        "death_year_sort": 1867,
+        "death_label": "1867",
+        "lifespan": "1798–1867",
+        "site_url": "https://geometor.github.io/staudt/",
+        "github_url": "https://github.com/geometor/staudt"
+      },
+      "labels": [
+        "person-staudt"
+      ]
+    },
+    "people/steiner": {
+      "id": "people/steiner",
+      "docname": "people/steiner",
+      "type": "person",
+      "title": "Steiner",
+      "url": "https://geometor.github.io/pasch/people/steiner.html",
+      "description": "Jakob Steiner (1796–1863)",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Steiner",
+      "facets": {
+        "death_year": "1863",
+        "death_year_sort": 1863,
+        "death_label": "1863",
+        "lifespan": "1796–1863",
+        "site_url": "https://geometor.github.io/steiner/",
+        "github_url": "https://github.com/geometor/steiner"
+      },
+      "labels": [
+        "person-steiner"
+      ]
+    },
+    "people/tarski": {
+      "id": "people/tarski",
+      "docname": "people/tarski",
+      "type": "person",
+      "title": "Tarski",
+      "url": "https://geometor.github.io/pasch/people/tarski.html",
+      "description": "Alfred Tarski (1901–1983)",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Tarski",
+      "facets": {
+        "death_year": "1983",
+        "death_year_sort": 1983,
+        "death_label": "1983",
+        "lifespan": "1901–1983"
+      },
+      "labels": [
+        "person-tarski"
+      ]
+    },
+    "people/vailati": {
+      "id": "people/vailati",
+      "docname": "people/vailati",
+      "type": "person",
+      "title": "Vailati",
+      "url": "https://geometor.github.io/pasch/people/vailati.html",
+      "description": "Giovanni Vailati (1863–1909)",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Vailati",
+      "facets": {
+        "death_year": "1909",
+        "death_year_sort": 1909,
+        "death_label": "1909",
+        "lifespan": "1863–1909"
+      },
+      "labels": [
+        "person-vailati"
+      ]
+    },
+    "people/veblen": {
+      "id": "people/veblen",
+      "docname": "people/veblen",
+      "type": "person",
+      "title": "Veblen",
+      "url": "https://geometor.github.io/pasch/people/veblen.html",
+      "description": "Oswald Veblen (1880–1960)",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Veblen",
+      "facets": {
+        "death_year": "1960",
+        "death_year_sort": 1960,
+        "death_label": "1960",
+        "lifespan": "1880–1960"
+      },
+      "labels": [
+        "person-veblen"
+      ]
+    },
+    "todos/index": {
+      "id": "todos/index",
+      "docname": "todos/index",
+      "type": "article",
+      "title": "Todos",
+      "url": "https://geometor.github.io/pasch/todos/",
+      "description_source": "empty",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Todos"
+    },
+    "usage/index": {
+      "id": "usage/index",
+      "docname": "usage/index",
+      "type": "section",
+      "title": "Usage",
+      "url": "https://geometor.github.io/pasch/usage/",
+      "description": "This archive is built with PHOTON Publish as an interconnected semantic book codex.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Usage",
+      "labels": [
+        "usage"
+      ]
+    },
+    "vorlesungen_1882/index": {
+      "id": "vorlesungen_1882/index",
+      "docname": "vorlesungen_1882/index",
+      "type": "book",
+      "title": "Lectures on Modern Geometry",
+      "url": "https://geometor.github.io/pasch/vorlesungen_1882/",
+      "subtitle": "Vorlesungen über neuere Geometrie — Moritz Pasch (1882)",
+      "description": "Moritz Pasch’s foundational 1882 treatise establishing the axioms of linear order, planar separation, ideal sheaves without infinity, and modern hypothetico-deductive rigor.",
+      "description_source": "meta",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image": "https://geometor.github.io/pasch/_static/figures/pasch_sec01_linear_betweenness_separation.svg",
+      "image_alt": "Moritz Pasch's linear betweenness axioms (Grundsätze I-VIII) for open segments AB and four-point separation of collinear pairs.",
+      "facets": {
+        "author": "Moritz Pasch",
+        "year": "1882",
+        "year_sort": 1882,
+        "year_display": "1882"
+      },
+      "labels": [
+        "pasch-index",
+        "vorlesungen-index",
+        "vorlesungen_1882-index"
+      ]
+    },
+    "vorlesungen_1882/sec_01_betweenness/de": {
+      "id": "vorlesungen_1882/sec_01_betweenness/de",
+      "docname": "vorlesungen_1882/sec_01_betweenness/de",
+      "type": "de",
+      "title": "§ 1: Grundlegung & Von der geraden Linie",
+      "url": "https://geometor.github.io/pasch/vorlesungen_1882/sec_01_betweenness/de.html",
+      "description": "Vorwort und Einleitung (Gießen, 1882)",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image": "https://geometor.github.io/pasch/_static/figures/pasch_sec01_linear_betweenness_separation.svg",
+      "image_alt": "Moritz Paschs Grundsätze I-VIII der linearen Zwischenbeziehung auf begrenzten geraden Strecken AB.",
+      "labels": [
+        "pasch-sec-1-de",
+        "pasch-unit-1-de"
+      ]
+    },
+    "vorlesungen_1882/sec_01_betweenness/index": {
+      "id": "vorlesungen_1882/sec_01_betweenness/index",
+      "docname": "vorlesungen_1882/sec_01_betweenness/index",
+      "type": "section",
+      "title": "§ 1: Grounding Geometry & Linear Betweenness",
+      "url": "https://geometor.github.io/pasch/vorlesungen_1882/sec_01_betweenness/",
+      "description": "Preface & Introduction (Vorwort & Einleitung, Giessen, 1882)",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image": "https://geometor.github.io/pasch/_static/figures/pasch_sec01_linear_betweenness_separation.svg",
+      "image_alt": "Moritz Pasch's linear betweenness axioms (Grundsätze I-VIII) for open segments AB and four-point separation of collinear pairs.",
+      "labels": [
+        "pasch-sec-1-en",
+        "pasch-unit-1-en"
+      ]
+    },
+    "vorlesungen_1882/sec_01_betweenness/notes": {
+      "id": "vorlesungen_1882/sec_01_betweenness/notes",
+      "docname": "vorlesungen_1882/sec_01_betweenness/notes",
+      "type": "notes",
+      "title": "§ 1 Critical Notes: From Pasch’s Eight Grundsätze to Hilbert Group II",
+      "url": "https://geometor.github.io/pasch/vorlesungen_1882/sec_01_betweenness/notes.html",
+      "description": "Direct Lineage to Hilbert’s Axioms II 1–3 (1899): Seventeen years after Pasch’s Vorlesungen, David Hilbert (Grundlagen § 3, geometor/hilbert) compressed Pasch’s Grundsätze I–VIII into his Group II linear order axioms (II 1: symmetry…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image": "https://geometor.github.io/pasch/_static/figures/pasch_sec01_linear_betweenness_separation.svg",
+      "image_alt": "Moritz Pasch's linear betweenness axioms (Grundsätze I-VIII) for open segments AB and four-point separation of collinear pairs.",
+      "labels": [
+        "pasch-sec-1-notes",
+        "pasch-unit-1-notes"
+      ]
+    },
+    "vorlesungen_1882/sec_01_betweenness/summary": {
+      "id": "vorlesungen_1882/sec_01_betweenness/summary",
+      "docname": "vorlesungen_1882/sec_01_betweenness/summary",
+      "type": "summary",
+      "title": "§ 1 Summary: Bounded Segments & Linear Betweenness Axioms",
+      "url": "https://geometor.github.io/pasch/vorlesungen_1882/sec_01_betweenness/summary.html",
+      "description": "Bounded Segments Before Infinite Lines (Einleitung): Pasch begins from finite observable straight segments AB and the ternary relation “C lies inside AB” (betweenness) rather than assuming completed infinite lines a priori.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image": "https://geometor.github.io/pasch/_static/figures/pasch_sec01_linear_betweenness_separation.svg",
+      "image_alt": "Moritz Pasch's linear betweenness axioms (Grundsätze I-VIII) for open segments AB and four-point separation of collinear pairs.",
+      "labels": [
+        "pasch-sec-1-summary",
+        "pasch-unit-1-summary"
+      ]
+    },
+    "vorlesungen_1882/sec_02_planar_separation/de": {
+      "id": "vorlesungen_1882/sec_02_planar_separation/de",
+      "docname": "vorlesungen_1882/sec_02_planar_separation/de",
+      "type": "de",
+      "title": "§ 2 & §§ 8–12: Von der Ebene, Strahlenbündel & Deduktives Manifest",
+      "url": "https://geometor.github.io/pasch/vorlesungen_1882/sec_02_planar_separation/de.html",
+      "description": "§ 2. Von der Ebene — Der IV. Grundsatz (S. 17–27)",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image": "https://geometor.github.io/pasch/_static/figures/pasch_sec02_planar_axiom_euclid_gaps.svg",
+      "image_alt": "Paschs IV. Grundsatz der Ebene (1882 S. 21) am Dreieck ABC und deduktiver Nachweis für Euklid I.21.",
+      "labels": [
+        "pasch-sec-2-de",
+        "pasch-unit-2-de"
+      ]
+    },
+    "vorlesungen_1882/sec_02_planar_separation/index": {
+      "id": "vorlesungen_1882/sec_02_planar_separation/index",
+      "docname": "vorlesungen_1882/sec_02_planar_separation/index",
+      "type": "section",
+      "title": "§ 2 & §§ 8–12: Planar Separation Axiom & Ideal Sheaves",
+      "url": "https://geometor.github.io/pasch/vorlesungen_1882/sec_02_planar_separation/",
+      "description": "§ 2. On the Plane and Pasch’s Planar Separation Axiom (pp. 17–27)",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image": "https://geometor.github.io/pasch/_static/figures/pasch_sec02_planar_axiom_euclid_gaps.svg",
+      "image_alt": "Pasch's IV. Grundsatz (1882 p. 21) on triangle ABC and deductive proof of Euclid I.21 ray exit E on AC.",
+      "labels": [
+        "pasch-sec-2-en",
+        "pasch-unit-2-en"
+      ]
+    },
+    "vorlesungen_1882/sec_02_planar_separation/notes": {
+      "id": "vorlesungen_1882/sec_02_planar_separation/notes",
+      "docname": "vorlesungen_1882/sec_02_planar_separation/notes",
+      "type": "notes",
+      "title": "§ 2 & §§ 8–12 Critical Notes: Closing Euclid’s Gaps & the Birth of Modern Axiomatics",
+      "url": "https://geometor.github.io/pasch/vorlesungen_1882/sec_02_planar_separation/notes.html",
+      "description": "Closing Euclid’s I.16 and I.21 Order Gaps (`geometor.pasch.order`):",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image": "https://geometor.github.io/pasch/_static/figures/pasch_sec02_planar_axiom_euclid_gaps.svg",
+      "image_alt": "Pasch's IV. Grundsatz (1882 p. 21) on triangle ABC and deductive proof of Euclid I.21 ray exit E on AC.",
+      "labels": [
+        "pasch-sec-2-notes",
+        "pasch-unit-2-notes"
+      ]
+    },
+    "vorlesungen_1882/sec_02_planar_separation/summary": {
+      "id": "vorlesungen_1882/sec_02_planar_separation/summary",
+      "docname": "vorlesungen_1882/sec_02_planar_separation/summary",
+      "type": "summary",
+      "title": "§ 2 & §§ 8–12 Summary: Pasch’s Axiom, Finite Sheaves & Formal Deduction",
+      "url": "https://geometor.github.io/pasch/vorlesungen_1882/sec_02_planar_separation/summary.html",
+      "description": "Pasch’s Planar Separation Axiom (§ 2, IV. Grundsatz, p. 21): Any coplanar line avoiding vertices A, B, C that enters open side AB must exit through open side AC or open side BC.",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image": "https://geometor.github.io/pasch/_static/figures/pasch_sec02_planar_axiom_euclid_gaps.svg",
+      "image_alt": "Pasch's IV. Grundsatz (1882 p. 21) on triangle ABC and deductive proof of Euclid I.21 ray exit E on AC.",
+      "labels": [
+        "pasch-sec-2-summary",
+        "pasch-unit-2-summary"
+      ]
+    },
+    "vorlesungen_1882/title-de": {
+      "id": "vorlesungen_1882/title-de",
+      "docname": "vorlesungen_1882/title-de",
+      "type": "book_title",
+      "title": "Vorlesungen über neuere Geometrie",
+      "url": "https://geometor.github.io/pasch/vorlesungen_1882/title-de.html",
+      "subtitle": "Moritz Pasch (Leipzig, 1882)",
+      "description": "„Es muss in der That, wenn anders die Geometrie wirklich deductiv sein soll, der Process des Folgerns überall unabhängig sein vom Sinn der geometrischen Begriffe, wie er unabhängig sein muss von den Figuren; nur die in den benutzten…",
+      "description_source": "fallback",
+      "emblem": "https://geometor.github.io/pasch/_static/medallion.svg",
+      "image_alt": "Vorlesungen über neuere Geometrie",
+      "facets": {
+        "author": "Moritz Pasch"
+      },
+      "labels": [
+        "vorlesungen_1882-title-de"
+      ]
+    }
+  },
+  "labels": {
+    "about": "about/index",
+    "about-index": "about/index",
+    "about-pasch": "about/index",
+    "bibliography": "bibliography",
+    "cite-pasch-1882": "bibliography",
+    "cite-euclid-elements": "bibliography",
+    "cite-staudt-1847": "bibliography",
+    "cite-staudt-1857": "bibliography",
+    "cite-pappus-synagoge": "bibliography",
+    "cite-mobius-1827": "bibliography",
+    "cite-steiner-1832": "bibliography",
+    "cite-steiner-1833": "bibliography",
+    "cite-klein-1871": "bibliography",
+    "cite-klein-1873": "bibliography",
+    "cite-darboux-1880": "bibliography",
+    "cite-vailati-1895": "bibliography",
+    "cite-russell-1897": "bibliography",
+    "cite-hilbert-1899": "bibliography",
+    "cite-russell-1903": "bibliography",
+    "cite-hessenberg-1905": "bibliography",
+    "cite-veblen-1910": "bibliography",
+    "cite-hoenen-1954": "bibliography",
+    "cite-tarski-1959": "bibliography",
+    "connect": "connect",
+    "glossary": "glossary",
+    "term-zwischen": "glossary",
+    "term-pasch-grundsatz": "glossary",
+    "term-stammbegriffe": "glossary",
+    "term-stammsaetze": "glossary",
+    "term-getrennte-paare": "glossary",
+    "term-unendlich-fernes-element": "glossary",
+    "term-reciprocitaet": "glossary",
+    "term-vollstaendiges-viereck": "glossary",
+    "term-harmonisches-gebilde": "glossary",
+    "term-geometrie-der-lage": "glossary",
+    "person-brianchon": "people/brianchon",
+    "person-chasles": "people/chasles",
+    "person-darboux": "people/darboux",
+    "person-desargues": "people/desargues",
+    "person-euclid": "people/euclid",
+    "person-hilbert": "people/hilbert",
+    "person-hoenen": "people/hoenen",
+    "persons": "people/index",
+    "person-klein": "people/klein",
+    "person-mobius": "people/mobius",
+    "person-pappus": "people/pappus",
+    "person-pascal": "people/pascal",
+    "person-pasch": "people/pasch",
+    "person-poncelet": "people/poncelet",
+    "person-russell": "people/russell",
+    "person-staudt": "people/staudt",
+    "person-steiner": "people/steiner",
+    "person-tarski": "people/tarski",
+    "person-vailati": "people/vailati",
+    "person-veblen": "people/veblen",
+    "usage": "usage/index",
+    "pasch-index": "vorlesungen_1882/index",
+    "vorlesungen-index": "vorlesungen_1882/index",
+    "vorlesungen_1882-index": "vorlesungen_1882/index",
+    "pasch-sec-1-de": "vorlesungen_1882/sec_01_betweenness/de",
+    "pasch-unit-1-de": "vorlesungen_1882/sec_01_betweenness/de",
+    "pasch-sec-1-en": "vorlesungen_1882/sec_01_betweenness/index",
+    "pasch-unit-1-en": "vorlesungen_1882/sec_01_betweenness/index",
+    "pasch-sec-1-notes": "vorlesungen_1882/sec_01_betweenness/notes",
+    "pasch-unit-1-notes": "vorlesungen_1882/sec_01_betweenness/notes",
+    "pasch-sec-1-summary": "vorlesungen_1882/sec_01_betweenness/summary",
+    "pasch-unit-1-summary": "vorlesungen_1882/sec_01_betweenness/summary",
+    "pasch-sec-2-de": "vorlesungen_1882/sec_02_planar_separation/de",
+    "pasch-unit-2-de": "vorlesungen_1882/sec_02_planar_separation/de",
+    "pasch-sec-2-en": "vorlesungen_1882/sec_02_planar_separation/index",
+    "pasch-unit-2-en": "vorlesungen_1882/sec_02_planar_separation/index",
+    "pasch-sec-2-notes": "vorlesungen_1882/sec_02_planar_separation/notes",
+    "pasch-unit-2-notes": "vorlesungen_1882/sec_02_planar_separation/notes",
+    "pasch-sec-2-summary": "vorlesungen_1882/sec_02_planar_separation/summary",
+    "pasch-unit-2-summary": "vorlesungen_1882/sec_02_planar_separation/summary",
+    "vorlesungen_1882-title-de": "vorlesungen_1882/title-de"
+  }
+}
